@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student SynCTI, NUS | Co-founder Ants Innovate
 
 profile:
   align: right
