@@ -17,5 +17,5 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello there! I am a Synthetic Biology PhD student at the [National University of Singapore SynCTI](https://syncti.org/) advised by [Julius Fredens](https://www.genomeeng.org/) and [Yew Wen Shan](https://synenzyme.org/).
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Contact: **shujian_ong AT u.nus.edu** 
 
